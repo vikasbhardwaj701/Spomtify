@@ -26,14 +26,3 @@
 | **HTML5**    | Page structure   |
 | **CSS3**     | Styling & layout |
 | **JavaScript** | Functionality & interactivity |
-
----
-
-## UI Screenshots
-
-> Add screenshots or a preview gif here:
-
-- Song list & player UI  
-- Responsive mobile view  
-- Play/pause button states  
-
